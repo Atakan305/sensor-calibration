@@ -8,6 +8,9 @@ There are a numerous use of these accelerometer sensors. Particularly, using the
 
 ## Useful Informations about ADXL350 3-Axis ±1g/±2g/±4g/±8g Digital Accelerometer 
 The high performance ADXL350 is a small, thin, low power, 3-axis accelerometer with high resolution (13-bit) and selectable measurement ranges up to ±8 g. The ADXL350 offers industry-leading temperature performance with guaranteed min/max specification for offset over temperature. Digital output data is formatted as 16-bit twos complement and is accessible through either a SPI (3- or 4-wire) or I2C digital interface.
+
+![image](https://github.com/user-attachments/assets/ba963be4-65ac-4bba-8f9a-483b6a0a6176)
+
 It measures the static acceleration of gravity in tilt sensing applications, as well as dynamic acceleration resulting from motion or shock. Its high resolution (2 mg/LSB) enables measurement of inclination changes of less than 1.0°. 
 You can check it out more details from: 
 https://www.analog.com/en/products/adxl350.html#part-details 
