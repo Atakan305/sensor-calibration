@@ -1,6 +1,6 @@
 # 3-Axis Digital Accelerometer Tilt Sensor Calibration
 
-3-axis digital acceleration tilt sensor calibration with Python. Execute the desired commands using serial communication. This project provides a set of scripts for calibrating a 3-axis digital accelerometer tilt sensor using Python.
+This project provides a set of scripts for calibrating a 3-axis digital accelerometer tilt sensor using Python with executing the desired commands using serial communication.
 Accelerometers like the ADXL350 are vital in applications such as smartphones, robotics, and gaming devices. They measure acceleration along three perpendicular axes (X, Y, and Z), enabling the calculation of tilt and orientation. Proper calibration is crucial for accurate readings.
 
 ## Field of Applications
